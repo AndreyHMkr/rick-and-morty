@@ -5,3 +5,4 @@ db.sqlite3
 characters/__pycache__/
 characters/migrations/__pycache__/
 rick_and_morty_api/__pycache__/
+.env
